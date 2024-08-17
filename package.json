@@ -1,0 +1,16 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "description": "Task tracker cli",
+  "bin": {
+    "task-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tejavishnu.p@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "type": "module"
+}
